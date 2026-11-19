@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-11-19T00:28:39.268806+00:00",
+  "built_at": "2026-11-19T15:52:08.390640+00:00",
   "sources": {
     "geosite": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geosite.dat",
     "geoip": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geoip.dat",
@@ -40,8 +40,8 @@
       "sha256": "bc6075dfaae34124eac27b3c45ae23210332998692795a414feb2fd034989909"
     },
     "geoip.dat": {
-      "bytes": 17919553,
-      "sha256": "1d463ab22211ce9fea693f2fee65f11380cb9b4c7bac859d6aeacc63b297f156"
+      "bytes": 17955527,
+      "sha256": "c8f8a74c3e02f8953d89d0b894fa3a238b341417e0583c2eecdb9bbf8026e717"
     }
   }
 }
