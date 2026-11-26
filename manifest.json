@@ -1,12 +1,12 @@
 {
-  "built_at": "2026-11-25T21:47:40.915664+00:00",
+  "built_at": "2026-11-26T08:32:41.498167+00:00",
   "sources": {
     "geosite": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geosite.dat",
     "geoip": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geoip.dat",
     "geoblock": "https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Categories/geoblock.lst"
   },
   "counts": {
-    "ru-blocked": 73607,
+    "ru-blocked": 72945,
     "private": 133,
     "geo-block": 465,
     "beemoov": 18
@@ -36,12 +36,12 @@
   ],
   "files": {
     "geosite.dat": {
-      "bytes": 1537944,
-      "sha256": "bc6075dfaae34124eac27b3c45ae23210332998692795a414feb2fd034989909"
+      "bytes": 1525620,
+      "sha256": "6d8204e3b552b12adb703bf9106774affd9449d3ad5dab14c4a6f3b9c1c61179"
     },
     "geoip.dat": {
-      "bytes": 17955437,
-      "sha256": "76f55561f69cad772dfd12454262be53db6145f57fee7f51231bc9bf934e55fc"
+      "bytes": 17954267,
+      "sha256": "aabc919a8aba4a2e3c15bd061bebd96df5ced4eaa0c7cc685d2945b1da2266c9"
     }
   }
 }
